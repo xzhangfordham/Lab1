@@ -11,7 +11,7 @@
 ```console
 $  g++ lab1.cpp -o lab1.exe  
 ```
-{: data-highlight="1" data-title="markdown" }
+
 
 The following example illustrates how your program should work.
 The program first reads the length of the vector (as 5 in example below), then reads this number of integers, and push them into a vector. 
