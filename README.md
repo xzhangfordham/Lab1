@@ -33,9 +33,12 @@ The program then reads a command (selection, bubble, rselection, rbubble), and c
 The vector after being sorted will be displayed. 
  Note that the user input are underscored. 
  
- <div class="primer-spec-callout info" markdown="1">
-   [storm: zhang]$ g++ lab1.cpp -o lab1.exe  
-</div>
+
+```console
+$  g++ lab1.cpp -o lab1.exe  
+```
+{: data-variant="legacy" }
+
 
 
   [storm: zhang]$ ./lab1.exe
