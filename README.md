@@ -27,31 +27,35 @@ On _github_.
 * Familiarize with C++ STL class vector
   
 Program Execution:
-The following example illustrates how your program should work.
-The program first reads the length of the vector (as 5 in example below), then reads this number of integers, and push them into a vector. 
-The program then reads a command (selection, bubble, rselection, rbubble), and call the corresponding sorting function to sort the vector. 
-The vector after being sorted will be displayed. 
- Note that the user input are underscored. 
+
  
 
 ```console
 $  g++ lab1.cpp -o lab1.exe  
 ```
-{: data-variant="legacy" }
 
+The following example illustrates how your program should work.
+The program first reads the length of the vector (as 5 in example below), then reads this number of integers, and push them into a vector. 
+The program then reads a command (selection, bubble, rselection, rbubble), and call the corresponding sorting function to sort the vector. 
+The vector after being sorted will be displayed. 
+ Note that the user input are underscored. 
 
-
-  [storm: zhang]$ ./lab1.exe
+```console
+$ ./lab1.exe
    5
    74 25 32 99 24
    selection
    24 25 32 74 99
+ ```
  
-   [storm: zhang]$ ./lab1.exe
+ Another exuection example: 
+ ```console
+$ ./lab1.exe
    3
    17 5 23
    bubble
    5 17 23
+```
 
 #### General Hints: 
 
