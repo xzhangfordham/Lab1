@@ -10,11 +10,10 @@
   
 #### Program Execution:
 
- 
-
 ```console
 $  g++ lab1.cpp -o lab1.exe  
 ```
+{: data-highlight="1" data-title="markdown" }
 
 The following example illustrates how your program should work.
 The program first reads the length of the vector (as 5 in example below), then reads this number of integers, and push them into a vector. 
@@ -53,8 +52,7 @@ $ ./lab1.exe
 Submit your lab1.cpp via [autograder](
 https://storm.cis.fordham.edu:8443/web/project/262).
 
- [Blackboard](https://fordham.blackboard.com/).
-You have a total of 20 submissions opportunities, and 3 submissions on a particular day.
+You have a total of 20 submissions opportunities, and 3 submissions on any particular day.
 
 #### Grading:
 
