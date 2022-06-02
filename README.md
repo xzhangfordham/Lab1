@@ -44,10 +44,10 @@ $ ./lab1.exe
 * Write your main function first. 
 * Incrementally write one function and test it before moving to the next.  Please refer to the slides  on how to implement these functions.
 
-1 selection: iterative selection sort function 
-2 bubble: iterative bubble sort function
-3 rselection: recursive selection sort function 
-4 rbubble: recursive bubble sort function 
+1. selection: iterative selection sort function 
+2. bubble: iterative bubble sort function
+3. rselection: recursive selection sort function 
+4. rbubble: recursive bubble sort function 
 
 #### What to submit
 Submit your lab1.cpp by going to the following autograder page:
