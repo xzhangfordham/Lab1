@@ -1,10 +1,30 @@
+## CISC4080 Lab1
+This is practice for **markdown**.  
+On _github_.
+
+#### Unordered List!
+* thing in list
+* another thing in list
+* another
+
+#### Ordered List!
+1. first
+2. second
+3. third
+
+[Google](https://www.google.com)
+
+![Globe](https://cdn.pixabay.com/photo/2016/04/24/04/53/globe-1348777_1280.png)
+
+[other file](newFile.md)
+
 # GraphLab
 
-Goal:
+#### Goal!
 
-Implement bubble sort, selection sort iteratively and recursively.
-Implement linear search. 
-Familiarize with C++ STL class vector
+* Implement bubble sort, selection sort iteratively and recursively.
+* Implement linear search. 
+* Familiarize with C++ STL class vector
   
 Program Execution:
 The following example illustrates how your program should work.
@@ -25,12 +45,12 @@ The vector after being sorted will be displayed.
    bubble
    5 17 23
 
+#### General Hints: 
 
-General Hints: 
 
-  * Write your main function first. 
 
-   * Incrementally write one function and test it before moving to the next.  Please refer to the slides  on how to implement these functions.
+1. Write your main function first. 
+2. Incrementally write one function and test it before moving to the next.  Please refer to the slides  on how to implement these functions.
 
 selection: iterative selection sort function 
 bubble: iterative bubble sort function
