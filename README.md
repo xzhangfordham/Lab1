@@ -12,7 +12,6 @@
 $  g++ lab1.cpp -o lab1.exe  
 ```
 
-
 The following example illustrates how your program should work.
 The program first reads the length of the vector (as 5 in example below), then reads this number of integers, and push them into a vector. 
 The program then reads a command (selection, bubble, rselection, rbubble), and call the corresponding sorting function to sort the vector. 
@@ -39,7 +38,7 @@ $ ./lab1.exe
 #### General Hints: 
 
 * Write your main function first. 
-* Incrementally write one function and test it before moving to the next.  Please refer to the slides  on how to implement these functions.
+* Incrementally write one function and test it before moving to the next.  
 
 1. selection: iterative selection sort function 
 2. bubble: iterative bubble sort function
@@ -47,8 +46,8 @@ $ ./lab1.exe
 4. rbubble: recursive bubble sort function 
 
 #### What to submit
-Submit your lab1.cpp via [autograder](
-https://storm.cis.fordham.edu:8443/web/project/262).
+Submit your lab1.cpp via 
+[autograder](https://storm.cis.fordham.edu:8443/web/project/262).
 
 You have a total of 20 submissions opportunities, and 3 submissions on any particular day.
 
