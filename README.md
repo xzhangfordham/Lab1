@@ -1,7 +1,5 @@
 ## CISC4080 Lab1
 
-[other file](newFile.md)
-
 #### Goal
 
 * Implement bubble sort, selection sort iteratively and recursively.
