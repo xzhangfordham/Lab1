@@ -50,8 +50,10 @@ $ ./lab1.exe
 4. rbubble: recursive bubble sort function 
 
 #### What to submit
-Submit your lab1.cpp by going to the following autograder page:
-https://storm.cis.fordham.edu:8443/web/project/262
+Submit your lab1.cpp via [autograder](
+https://storm.cis.fordham.edu:8443/web/project/262).
+
+ [Blackboard](https://fordham.blackboard.com/).
 You have a total of 20 submissions opportunities, and 3 submissions on a particular day.
 
 #### Grading:
