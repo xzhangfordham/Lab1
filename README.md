@@ -32,7 +32,12 @@ The program first reads the length of the vector (as 5 in example below), then r
 The program then reads a command (selection, bubble, rselection, rbubble), and call the corresponding sorting function to sort the vector. 
 The vector after being sorted will be displayed. 
  Note that the user input are underscored. 
-  [storm: zhang]$ g++ lab1.cpp -o lab1.exe  
+ 
+ <div class="primer-spec-callout info" markdown="1">
+   [storm: zhang]$ g++ lab1.cpp -o lab1.exe  
+</div>
+
+
   [storm: zhang]$ ./lab1.exe
    5
    74 25 32 99 24
