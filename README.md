@@ -8,7 +8,7 @@
 * Implement linear search. 
 * Familiarize with C++ STL class vector
   
-Program Execution:
+#### Program Execution:
 
  
 
@@ -41,15 +41,13 @@ $ ./lab1.exe
 
 #### General Hints: 
 
+* Write your main function first. 
+* Incrementally write one function and test it before moving to the next.  Please refer to the slides  on how to implement these functions.
 
-
-1. Write your main function first. 
-2. Incrementally write one function and test it before moving to the next.  Please refer to the slides  on how to implement these functions.
-
-selection: iterative selection sort function 
-bubble: iterative bubble sort function
-rselection: recursive selection sort function 
-rbubble: recursive bubble sort function 
+1 selection: iterative selection sort function 
+2 bubble: iterative bubble sort function
+3 rselection: recursive selection sort function 
+4 rbubble: recursive bubble sort function 
 
 #### What to submit
 Submit your lab1.cpp by going to the following autograder page:
