@@ -1,26 +1,8 @@
 ## CISC4080 Lab1
-This is practice for **markdown**.  
-On _github_.
-
-#### Unordered List!
-* thing in list
-* another thing in list
-* another
-
-#### Ordered List!
-1. first
-2. second
-3. third
-
-[Google](https://www.google.com)
-
-![Globe](https://cdn.pixabay.com/photo/2016/04/24/04/53/globe-1348777_1280.png)
 
 [other file](newFile.md)
 
-# GraphLab
-
-#### Goal!
+#### Goal
 
 * Implement bubble sort, selection sort iteratively and recursively.
 * Implement linear search. 
@@ -69,15 +51,16 @@ bubble: iterative bubble sort function
 rselection: recursive selection sort function 
 rbubble: recursive bubble sort function 
 
-What to submit
+#### What to submit
 Submit your lab1.cpp by going to the following autograder page:
 https://storm.cis.fordham.edu:8443/web/project/262
 You have a total of 20 submissions opportunities, and 3 submissions on a particular day.
 
-Grading:
-Automatic test cases (50 pts):  5 test cases each tests one of the sorting functions. For this to work, pay attention to the following details: 
+#### Grading:
+
+* Automatic test cases (50 pts):  5 test cases each tests one of the sorting functions. For this to work, pay attention to the following details: 
    The command used in your program needs to match with those specified in this description, i.e.,   selection, rselection, bubble, rbubble
    Before submitting your program, comment out or delete any cout statements except for the one that displaying the vector after sorting function is called.
 
-Handgrading (20 pts): style, comment, and logic… 
+* Handgrading (20 pts): style, comment, and logic… 
     See the autograder page for this project for details. 
